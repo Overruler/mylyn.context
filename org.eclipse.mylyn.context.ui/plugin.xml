@@ -212,7 +212,7 @@
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration">
       </key>
       <key
-            sequence="M1+M2+M3+ARROW_RIGHT"
+            sequence="M1+M2+M3+C"
             commandId="org.eclipse.mylyn.context.ui.commands.open.context.dialog"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration">
       </key>
